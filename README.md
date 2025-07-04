@@ -1,15 +1,27 @@
-# 🌀 ORGANON.ai — Core
+# 🌀 ORGANON.ai — Cor
 
-> **Codex Psychoarchaeologicus** – holistische Offline-KI  
-> Codex Latinus · Noctis Semantica · Audio · Mind-Map
+**Codex Psychoarchaeologicus** · AI localis · Codex Latinus · Noctis Semantica
 
-[![HF-Space](https://img.shields.io/badge/HF-Demo-blueviolet)](https://huggingface.co/spaces/ORGANONai/organonai-demo)
-[![Installer](https://img.shields.io/badge/Setup-Python%203.10+-green)](organon_setup_codex_full.py)
-[![License: MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
+[![Demo](https://img.shields.io/badge/Spatium-HF-blueviolet)](https://huggingface.co/spaces/ORGANONai/organonai-demo)
+[![Installa](https://img.shields.io/badge/Installer-Python%203.10+-green)](organon_setup_codex_full.py)
+[![Licentia](https://img.shields.io/badge/License-MIT-brightgreen.svg)](LICENSE)
 
-## Quick Start (local)
+## Initium celer
 
 ```bash
-python organon_setup_codex_full.py   # --mini  → TinyLlama   --lite → Minimal-Mode
+python organon_setup_codex_full.py   # --mini  (TinyLlama)   | --lite  (modus minimus)
 .\run_backend.bat
 .\desktop\run_desktop.bat
+
+
+---
+
+#### 4 Mandata git
+
+```bash
+git clone https://github.com/ORGANONai/organonai-core
+cd organonai-core
+# README, installer, omnia fonte scaenae
+git add .
+git commit -m "Primordium Codicis Core"
+git push -u origin main
